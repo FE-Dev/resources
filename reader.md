@@ -1,3 +1,5 @@
+人丑就要多读书
+
 1. 豪情的[知识月刊](https://github.com/jsfront/month)
 2. [阅读单子](reader.md)
 2. [前端开发规范手册 ](https://github.com/Aaaaaashu/Front-End-Style-Guide)
